@@ -1,0 +1,21 @@
+body {
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    background: rgb(255,146,99);
+background: linear-gradient(0deg, rgba(255,146,99,1) 0%, rgba(0,151,204,1) 100%);
+background-repeat: no-repeat;
+}
+
+.rtl{
+    direction: rtl;
+    text-align: right;
+}
+
+.table{
+    background-color: rgb(175, 141, 79);
+}
+
+html{
+    height: 100%;
+}
